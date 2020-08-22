@@ -1,6 +1,6 @@
 // Determine how many pairs of socks with matching colors there are
-// numberOfSocks: the number of socks in the pile
-// typeOfSock: the colors of each sock (by number)
+// n: the number of socks in the pile
+// ar: the colors of each sock (by number)
 
 // Return the total number of matching pairs
 
